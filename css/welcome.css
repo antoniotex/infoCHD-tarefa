@@ -27,3 +27,33 @@
 .welcome-item-paragraph .name{
   text-align: end;
 }
+
+.welcome-item-2{
+  display: flex;
+  flex-direction: column;
+  justify-content: space-between;
+  align-items: center;
+}
+
+.welcome-item-2 img{
+  width: 200px;
+  border-radius: 50%;
+  border: 3px solid #60cedf;
+}
+.welcome-item-2 p:nth-child(2){
+  font-size: 1.7em;
+}
+
+.welcome-item-2 .name{
+  font-weight: bold;
+}
+
+.welcome-item-2-paragraph{
+  border: 3px solid #60cedf;
+  width: 550px;
+  padding: 10px 20px;
+}
+
+.welcome-item-2-paragraph span{
+  color: #60cedf;
+}
