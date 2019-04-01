@@ -1,0 +1,96 @@
+/* Start Main Global */
+.main{
+  display: grid;
+  height: 100%;
+}
+
+.main-item{
+  height: 100%;
+  color: #fff;
+  display: flex;
+  flex-direction: column;
+  align-items: flex-end;
+  justify-content: center;
+  padding: 0px 70px 0px 90px;
+}
+
+.parcial-border-white{
+  border: 4px solid white;
+  padding: 10px 20px;
+  font-size: 3.3em;
+}
+
+.parcial-border-blue{
+  border: 4px solid #60cedf;
+  padding: 10px 20px;
+  font-size: 3.3em;
+  color: #60cedf;
+}
+
+.main-text{
+  display: flex;
+  flex-direction: column;
+  padding: 50px 0 0 0;
+}
+
+.main-item{
+  height: 100%;
+  color: #fff;
+  display: flex;
+  flex-direction: column;
+  align-items: flex-end;
+  justify-content: center;
+  padding: 0px 70px 0px 90px;
+}
+/* End Global */
+
+/* ------- */
+
+/* Start Main page 1 */
+.main-1{
+  grid-template-columns: 2fr 1fr;
+  justify-content: flex-end;
+  background: url('../images/golden-gate.jpe') no-repeat;
+  background-size: cover;
+}
+
+.main-item-1{
+  grid-column: 2;
+  background-color: rgba(96,206,223,.81);
+}
+
+.main-item-1 .main-text p{
+  text-align: end;
+  font-size: 1.4em
+}
+
+.main-item-1 .main-text span{
+  font-weight: bold;
+}
+/* End Main page 1 */
+
+/* ------ */
+
+/* Start Main page 2 */
+.main-2{
+  grid-template-columns: 1fr 2fr;
+  justify-content: flex-start;
+  background: url('../images/lily.jpg') no-repeat;
+  background-size: cover;
+}
+
+.main-item-2{
+  grid-column: 1;
+  background-color: rgba(11,10,28,.81);
+}
+
+.main-item-2 .main-text p{
+  text-align: end;
+  font-size: 1.4em
+}
+
+.main-item-2 .main-text span{
+  color: #60cedf;
+  font-weight: bold;
+}
+/* End Main Page 2 */

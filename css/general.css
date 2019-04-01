@@ -1,0 +1,24 @@
+.general{
+  display: grid;
+  grid-template-rows: 1fr 3fr 1fr;
+  height: 100%;
+}
+
+.general-item{
+  display: flex;
+  align-items: center;
+  justify-content: space-evenly;
+  background-color: #0b0a1c;
+  padding: 60px;
+}
+
+.general-item-paragraph{
+  width: 450px;
+  color: #fff;
+  font-size: 1.3em;
+}
+
+.general-item-paragraph span{
+  color: #60cedf;
+  font-weight: bold;
+}

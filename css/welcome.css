@@ -1,0 +1,24 @@
+.welcome{
+  display: grid;
+  grid-template-rows: 1fr 3fr 1fr;
+  height: 100%;
+}
+
+.welcome-item{
+  display: flex;
+  align-items: center;
+  justify-content: space-evenly;
+  background-color: #0b0a1c;
+  padding: 60px;
+}
+
+.welcome-item-paragraph{
+  width: 450px;
+  color: #fff;
+  font-size: 1.3em;
+}
+
+.welcome-item-paragraph span{
+  color: #60cedf;
+  font-weight: bold;
+}
