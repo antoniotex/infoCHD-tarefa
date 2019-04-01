@@ -16,9 +16,14 @@
   width: 450px;
   color: #fff;
   font-size: 1.3em;
+  border: 2px solid #60cedf;
+  padding: 10px 20px
 }
 
 .welcome-item-paragraph span{
-  color: #60cedf;
   font-weight: bold;
+}
+
+.welcome-item-paragraph .name{
+  text-align: end;
 }
