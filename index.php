@@ -26,9 +26,9 @@
 
     <section class="main main-1">
       <div class="main-item main-item-1">
-        <h1 class="parcial-border-white">simplicity.</h1>
+        <p class="parcial-border-white"><span></span>simplicity.</p>
         <div class="main-text">
-          <p><span class="text-bold">simplicity</span>is a multipurpose powerpoint template. 
+          <p><span class="text-bold">simplicity</span> is a multipurpose powerpoint template. 
           Advance, clean and professional. Minimalistix design makes the customization extremely easy.
           <br><br><span class="text-bold">enjoy!</span></p>
         </div>
@@ -38,7 +38,7 @@
 
     <section class="main main-2">
       <div class="main-item main-item-2">
-        <h1 class="parcial-border-blue">simplicity.</h1>
+        <h1 class="parcial-border-blue"><span></span>simplicity.</h1>
         <div class="main-text">
           <p><span class="text-bold">simplicity</span> is a multipurpose powerpoint template. 
           Advance, clean and professional. Minimalistix design makes the customization extremely easy.
@@ -56,7 +56,7 @@
         </div>
       </div>
       <div class="general-item">
-          <h1 class="parcial-border-blue">simplicity.</h1>
+          <h1 class="parcial-border-blue"><span></span>simplicity.</h1>
           <div class="general-item-paragraph">
               <p><span class="text-bold">simplicity</span> is a multipurpose powerpoint template. 
               Advance, clean and professional. Minimalistix design makes the customization extremely easy.
